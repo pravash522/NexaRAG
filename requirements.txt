@@ -1,0 +1,35 @@
+# Core notebook and RAG dependencies
+jupyter
+ipykernel
+numpy
+pandas
+requests
+ollama
+Pillow
+
+# LangChain ecosystem and retrieval
+langchain-core
+langchain-community
+langchain-classic
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+langgraph
+rank-bm25
+
+# PDF processing
+PyMuPDF
+pdfplumber
+camelot-py[cv]
+docling
+
+# RAGAS evaluation
+ragas
+datasets
+
+# Image helper functions (CLIP)
+torch
+transformers
+
+# Markdown table export used by the notebook
+tabulate
